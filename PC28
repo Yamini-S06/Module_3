@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class GifTimerScreen extends StatefulWidget {
   const GifTimerScreen({super.key});
 
